@@ -3,6 +3,9 @@
 Thumbs.db
 desktop.ini
 
+# === WorkBuddy ===
+.workbuddy/
+
 # === 编辑器 / IDE ===
 .vscode/*
 !.vscode/settings.json
